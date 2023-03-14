@@ -988,7 +988,7 @@ pre .javascript .function {
   margin: 0;
 }
 .site-subtitle {
-  color: #ddd;
+  color: #f5f5f5;
   font-size: 0.8125em;
   margin: 10px 0;
 }
@@ -1166,7 +1166,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #01ffff;
+  background: #df1257;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2223,7 +2223,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 .site-brand-container {
-  background: #222;
+  background: #87daff;
 }
 @media (max-width: 991px) {
   .site-brand-container {
