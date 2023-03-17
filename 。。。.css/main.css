@@ -2558,7 +2558,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 body {
-  background: url("http:/bqzk.com.cn/images/background.png");
+  background: url("images/background.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
